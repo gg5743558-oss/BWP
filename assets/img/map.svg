@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400"><rect width="800" height="400" fill="#e8efe6"/>
+<path d="M0 120H800M0 280H800M200 0V400M560 0V400" stroke="#fff" stroke-width="22"/><rect x="230" y="150" width="150" height="100" fill="#cfe3c4"/><circle cx="620" cy="80" r="50" fill="#bcd9f0"/>
+<text x="400" y="215" font-size="60" text-anchor="middle">📍</text><text x="400" y="360" font-size="26" text-anchor="middle" fill="#555">خريطة توضيحية (صورة ثابتة)</text></svg>
